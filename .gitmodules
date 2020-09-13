@@ -1,0 +1,9 @@
+[submodule "USTC-choose-course"]
+	path = USTC-choose-course
+	url = git@github.com:yusanshi/USTC-choose-course.git
+[submodule "USTC-grade-notification"]
+	path = USTC-grade-notification
+	url = git@github.com:yusanshi/USTC-grade-notification.git
+[submodule "USTC-grade-query"]
+	path = USTC-grade-query
+	url = git@github.com:yusanshi/USTC-grade-query.git
