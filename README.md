@@ -1,5 +1,6 @@
 # USTC Tools
 
 - https://github.com/yusanshi/USTC-choose-course
-- https://github.com/yusanshi/USTC-grade-notification
-- https://github.com/yusanshi/USTC-grade-query
+- https://github.com/yusanshi/USTC-grade-notification (need updating)
+- https://github.com/yusanshi/USTC-grade-query (need updating)
+- https://github.com/yusanshi/ucas-checkin (for UCAS, not for USTC)
